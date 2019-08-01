@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Jekyll搭建github博客傻瓜教程
-subtitle: Jekyll
-comments:true
+title: 教你搭建Jekyll
 ---
 - fork下这[仓库](//github.com/lblogs/lblogs.github.io)
 - 把它改名成 你的用户名.github.io
