@@ -21,8 +21,9 @@ description: I am a Little boy
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  blog home: "https://lblogs.github.io"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Beautiful Jekyll: "//github.com/lblogs/lblogs.github.io/blob/master/readme.md"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://momonorthy.github.io/index"
 
