@@ -1,7 +1,0 @@
----
-layout: post
-title: 旅游马上开始
----
-
-旅游还有八小时开始，光身庆祝
-![](https://github.com/lblogs/lblogs.github.io/blob/master/img/2019-08-05%2010.17.02.jpg)
