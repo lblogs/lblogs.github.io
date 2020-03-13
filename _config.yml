@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Little
+title: Sienna
 
 # Short description of your site
 description: I am a Little boy
@@ -26,7 +26,7 @@ navbar-links:
     - Beautiful Jekyll: "//github.com/lblogs/lblogs.github.io/blob/master/README.md"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://momonorthy.github.io/index"
-  Contact me: "mailto:little5245@outlook.com"
+  Contact me: "mailto:cloud.me@aliyun.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -70,7 +70,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "little5245@outlook.com"
+  email: "cloud.me@aliyun.com"
   facebook: 
   github: momonorthy
   twitter: 
