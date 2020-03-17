@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 搭建Ubuntu虚拟机难点分享
+tags: VM
+comments: true
 ---
 
 经历了重重险阻，我终于算是搭建好了Ubuntu。
